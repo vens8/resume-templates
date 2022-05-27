@@ -7,6 +7,14 @@
   <h3 class="title">best-resume-ever</h3>
   <div class="previews">
     <div class="preview">
+      <router-link v-bind:to="'/resume/material-dark-projects-revised'">
+        <div class="preview-wrapper">
+          <img src="../assets/preview/resume-material-dark-projects-revised.png" />
+          <span>material-dark-projects</span>
+        </div>
+      </router-link>
+    </div>
+    <div class="preview">
       <router-link v-bind:to="'/resume/material-dark'">
         <div class="preview-wrapper">
           <img src="../assets/preview/resume-material-dark.png" />
