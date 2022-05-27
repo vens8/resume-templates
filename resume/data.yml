@@ -4,7 +4,7 @@
 name:
   first: Vens8
   middle:
-  last: Maddula
+  last: 
 about: Vens8, yes.
 position: Low
 
@@ -63,7 +63,7 @@ hobbies:
   iconClass: fa fa-microphone
   url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-- name: Failing to troll but never giving up
+- name: Failing to troll but not giving up
   iconClass: fa fa-music
   url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
